@@ -1,3 +1,4 @@
+# Big o = O(log n)
 class BinarySearch():
 
     def main(self, list, item):
